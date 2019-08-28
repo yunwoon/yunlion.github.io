@@ -1,5 +1,5 @@
 # Likelion first project
 
-make my own blog
+make my own page
 
 Copyright © 2019 yunwoon All Rights Reserved.
